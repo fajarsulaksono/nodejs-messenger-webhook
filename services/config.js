@@ -60,19 +60,19 @@ module.exports = {
   get newPersonas() {
     return [
       {
-        name: "Jorge",
+        name: "Ngadimin",
         picture: `${this.appUrl}/personas/sales.jpg`
       },
       {
-        name: "Laura",
+        name: "Poniran",
         picture: `${this.appUrl}/personas/billing.jpg`
       },
       {
-        name: "Riandy",
+        name: "Basori",
         picture: `${this.appUrl}/personas/order.jpg`
       },
       {
-        name: "Daniel",
+        name: "Sokiran",
         picture: `${this.appUrl}/personas/care.jpg`
       }
     ];
